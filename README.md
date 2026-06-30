@@ -1,57 +1,51 @@
 <h2 align="center">💫 Sobre:</h2>
 
 <h4 align="center">
-  🎓 Sou estudante e desenvolvedora em início de carreira, apaixonada por tecnologia e por aprender coisas novas. Atualmente estou construindo minha base em programação, com foco em Python, desenvolvendo projetos para aprimorar minhas habilidades e adquirir experiência na área de desenvolvimento de software.
+  🎓 Me chamo Clara Heloá, sou estudante e uma entusiasta de programação, apaixonada por tecnologia e por aprender coisas novas. Atualmente estou construindo minha base em programação, com foco em Python, desenvolvendo projetos para aprimorar minhas habilidades e adquirir experiência na área de desenvolvimento de software.
 </h4>
-
----
-
-## 🌐 Redes:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/clara-heloá-1175083b2" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-## 💻 Tecnologias:
-
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  </a>
-</p>
-
----
-
-## 📚 Atualmente estudando:
-
-* 🐍 Python
-* 💻 Lógica de Programação
-* 🌱 Git e GitHub
 
 ---
 
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClaraHeloa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraHeloa&layout=compact&langs_count=8&theme=dracula" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=ClaraHeloa&theme=dracula&locale=pt_BR" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Troféus:
+## 🚀 O que estou estudando
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ClaraHeloa&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
+- 🐍 **Python** (Foco principal)
+- 💻 **Lógica de Programação**
+- 🌱 **Git e GitHub**
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
+
+---
+
+## 📂 Meus Projetos
+
+> 🚧 **Em construção...**
+> 
+> Logo estarei compartilhando aqui meus primeiros repositórios e scripts em Python! Fique à vontade para acompanhar minha evolução.
+
+---
+
+## 📫 Como me encontrar
+
+Se quiser trocar uma ideia sobre tecnologia, estudos ou oportunidades, me chame no LinkedIn:
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/clara-heloá-1175083b2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
