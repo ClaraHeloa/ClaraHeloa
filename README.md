@@ -31,9 +31,9 @@
 
 ## 📚 Atualmente estudando:
 
-- 🐍 Python
-- 💻 Lógica de Programação
-- 🌱 Git e GitHub
+* 🐍 Python
+* 💻 Lógica de Programação
+* 🌱 Git e GitHub
 
 ---
 
